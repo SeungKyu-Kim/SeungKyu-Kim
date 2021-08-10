@@ -25,7 +25,7 @@
   
 <br>
  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-kyu&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-kyu&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-kyu&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
