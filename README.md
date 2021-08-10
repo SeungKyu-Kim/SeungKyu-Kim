@@ -1,17 +1,14 @@
 <h3 align="center"> Hi there 👋 </h3>
-<div align="center">
 
-<div>
+
+<div align="center">
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cppc03)](https://solved.ac/cppc03)
-
-              
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-kyu)](https://github.com/anuraghazra/github-readme-stats)
-
   
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-kyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+ 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-kyu&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-kyu&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
