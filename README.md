@@ -19,7 +19,7 @@
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kim.seungkyu.106/)](https://www.facebook.com/kim.seungkyu.106/)
 
 <hr>
-<div align="center">
+<div>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cppc03)](https://solved.ac/cppc03)
   
