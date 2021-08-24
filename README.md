@@ -14,7 +14,7 @@
 <br>
 <h3> :telephone_receiver: Contact Me </h3>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seung-kyu-kim-9088a21b1/)](https://www.linkedin.com/in/seung-kyu-kim-9088a21b1/)&nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungkyu-kim-9088a21b1/)](https://www.linkedin.com/in/seungkyu-kim-9088a21b1/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungkyukim.dev@gmail.com)](mailto:seungkyukim.dev@gmail.com)&nbsp;
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kim.seungkyu.106/)](https://www.facebook.com/kim.seungkyu.106/)
 
