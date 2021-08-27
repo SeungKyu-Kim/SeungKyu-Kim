@@ -21,10 +21,9 @@
 <br>
 <hr>
 <div>
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cppc03)](https://solved.ac/cppc03)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ed-kyu&theme=prussian)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ed-kyu&theme=prussian)](https://git.io/streak-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cppc03)](https://solved.ac/cppc03)
   
 <br>
  
