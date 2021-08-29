@@ -22,11 +22,11 @@
 <hr>
 <div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ed-kyu&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ed-kyu&theme=vue-dark)](https://git.io/streak-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cppc03)](https://solved.ac/cppc03)
   
 <br>
  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-kyu&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-kyu&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-kyu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-kyu&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
